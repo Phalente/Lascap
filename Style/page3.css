@@ -15,6 +15,7 @@ h1 {
     font-size: 5.8em;
     text-align: center;
     font-family: 'Prata', serif;
+    margin-bottom: 10px;
 }
 
 p {
@@ -54,6 +55,7 @@ span {
 
 .paragraphe2 p {
     margin: 15px;
+    margin-left: 100px;
 }
 
 .paragraphe3 {
