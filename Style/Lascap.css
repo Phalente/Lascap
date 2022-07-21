@@ -2,6 +2,7 @@ html,
 body {
     height: 100%;
     color: #0070B4;
+    font-family: 'Inter', sans-serif;
 }
 
 div {
@@ -14,14 +15,16 @@ div {
 h1 {
     font-size: 5.8em;
     text-align: center;
+    font-family: 'Prata', serif;
 }
 
 h2 {
     text-transform: uppercase;
+    font-family: 'Prata', serif;
 }
 
 p {
-    font-size: 16px;
+    font-size: 18px;
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 40px;
