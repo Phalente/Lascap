@@ -1,0 +1,72 @@
+html,
+body {
+    height: 100%;
+    color: #0070B4;
+}
+
+div {
+    text-align: center;
+}
+
+
+/* Fonts */
+
+h1 {
+    font-size: 5.8em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 16px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+/* Images */
+
+.titre img {
+    width: 1139px;
+    height: 847px;
+}
+
+.swot img {
+    width: 1268px;
+    height: 487px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+.pestel img {
+    width: 1256px;
+    height: 953px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+.chiffres img {
+    width: 728px;
+    height: 379px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+.details img {
+    width: 701px;
+    height: 300px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+/* Colors */
+
+span {
+    color: #EF8834;
+}

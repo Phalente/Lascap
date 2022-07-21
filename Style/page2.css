@@ -1,0 +1,51 @@
+li {
+    text-align: left;
+    padding-bottom: 20px;
+}
+.bloc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bloc_image img {
+    max-width: 935px;
+}
+
+.les_metiers .bloc_text{
+    display: flex;
+    flex-direction: column;
+}
+
+.bloc_text_ul{
+    display: flex;
+    justify-content: center;
+}
+
+.bloc_text-bureau ul {
+    max-width: 550px;
+}
+
+
+.bloc_text-plateforme ul {
+    display: flex;
+}
+
+.bloc_text-plateforme li {
+    max-width: 550px;
+}
+
+.mon_equipe p {
+    text-align: center;
+}
+.bloc_collaborateurs {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloc_collaborateur_profil {
+    max-width: 500px;
+    padding: 0px 60px;
+}
