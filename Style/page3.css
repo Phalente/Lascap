@@ -48,9 +48,12 @@ span {
 }
 
 .paragraphe2 img {
-    width: 1259px;
-    height: 632px;
-    margin: 50px;
+    width: 85%;
+    height: 100%;
+}
+
+.imageparagraphe2 img {
+margin: 50px;
 }
 
 .paragraphe2 p {
@@ -63,10 +66,16 @@ span {
     flex-direction: row;
 }
 
+.paragraphe3 p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
 .imagedroite2 img{
     width: 526px;
     height: 445px;
-    margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding-top: 125px;
 }
 
