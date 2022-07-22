@@ -16,7 +16,9 @@ h1 {
     font-size: 5.8em;
     text-align: center;
     font-family: 'Prata', serif;
-    margin-bottom: 10px;
+    margin-bottom: 35px;
+    margin-top: 35px;
+    text-transform: uppercase;
 }
 
 h2 {
@@ -28,7 +30,7 @@ p {
     font-size: 18px;
     margin-left: 100px;
     margin-right: 100px;
-    margin-top: 40px;
+    margin-top: 15px;
     margin-bottom: 70px;
     text-align: justify;
 }
