@@ -1,0 +1,62 @@
+/* Images */
+
+.imagegauche img {
+    width: 449px;
+    height: 636px;
+    margin: 50px;
+}
+
+.imagedroite img {
+    width: 449px;
+    height: 636px;
+    margin: 50px;
+}
+
+.paragraphe2 img {
+    width: 85%;
+    height: 100%;
+}
+
+.imageparagraphe2 img {
+margin: 50px;
+}
+
+.paragraphe2 p {
+    margin: 15px;
+    margin-left: 100px;
+}
+
+.paragraphe3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.paragraphe3 p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.imagedroite2 img{
+    width: 526px;
+    height: 445px;
+    margin-right: 100px;
+    padding-top: 225px;
+}
+
+.bloc3{
+    display: flex;
+    flex-direction: row;
+}
+
+.imageblocgauche {
+    display: flex;
+    flex-direction: column;
+    width: 548px;
+    height: 372px;
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+.imageblocgauche img {
+    margin: 15px 0px;
+}
