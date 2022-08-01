@@ -3,7 +3,11 @@ $title = 'Lascapmaree';
 $page = 'page3';
 require '../elements/header.php';
 ?>
-
+<pre>
+    <?php
+    var_dump($_SERVER);
+    ?>
+</pre>
         <main>
             <div class="titre">
             <h1>
