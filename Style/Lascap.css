@@ -75,3 +75,7 @@ p {
 span {
     color: #EF8834;
 }
+
+.footer_reseaux img {
+    max-height: 55px;
+}

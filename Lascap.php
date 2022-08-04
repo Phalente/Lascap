@@ -70,9 +70,4 @@ require 'elements/header.php';
                 <img src="Images/page1-detailscap.png" alt="DETAILS">
             </div>
         </main>
-
-        <footer>
-
-        </footer>
-    </body>
-</html>
+<?php require 'elements/footer.php'; ?>

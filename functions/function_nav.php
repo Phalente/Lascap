@@ -8,5 +8,5 @@ function nav_item(string $lien, string $titre, string $linkClass = ''): string {
     <li class="$classe">
         <a class="$linkClass" href="$lien"></a>
     </li>
-HTML;
+HTML; 
 }

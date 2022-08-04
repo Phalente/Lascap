@@ -18,5 +18,15 @@
     </head>
     <body>
         <header>
-
+            <div class="img-hea">
+                <img src="../Images/logoscapmaree.png" alt="Logo Scapmarée">
+            </div>
+            <div class="nav-bar">
+                <ul>
+                    <li><a href="../Lascap.php">La Scapmarée</a></li>
+                    <li><a href="../Pages/page2.php">Les équipes</a></li>
+                    <li><a href="../Pages/page3.php">Mes missions</a></li>
+                    <li><a href="../Pages/page4.php">Conclusion</a></li>
+                </ul>
+            </div>
         </header>

@@ -64,9 +64,4 @@ require '../elements/header.php';
                 </div>
             </div>
         </main>
-
-        <footer>
-
-        </footer>
-    </body>
-</html>
+<?php require '../elements/footer.php'; ?>

@@ -124,9 +124,4 @@ require '../elements/header.php';
             </div>
 
         </main>
-
-        <footer>
-
-        </footer>
-    </body>
-</html>
+<?php require '../elements/footer.php'; ?>
