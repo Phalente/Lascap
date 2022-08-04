@@ -1,5 +1,5 @@
 <?php
-$title = 'Lascapmaree';
+$title = 'Les équipes';
 $page = 'page2';
 require '../elements/header.php';
 ?>

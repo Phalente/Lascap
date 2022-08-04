@@ -14,7 +14,14 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Inter&family=Press+Start+2P&display=swap" rel="stylesheet">
-        <title><?php isset($title)? $title : 'Lascapmarée'; ?></title>
+        <link rel="icon" href="../Images/logoscapmaree.png">
+        <title>
+            <?php if (isset($title)): ?>
+                <?= $title ?>
+            <?php else: ?>
+                Lascapmarée
+            <?php endif ?>
+        </title>
     </head>
     <body>
         <header>
