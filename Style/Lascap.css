@@ -1,6 +1,8 @@
 html,
 body {
     height: 100%;
+    max-width: 100%;
+    margin: 0;
     color: #0070B4;
     font-family: 'Inter', sans-serif;
 }
@@ -34,8 +36,18 @@ p {
     margin-bottom: 70px;
     text-align: justify;
 }
+a {
+    text-decoration: none;
+}
 
 /* Images */
+
+header {
+    height: 90px;
+    margin-bottom: 50px;
+    display: flex;
+}
+
 
 .titre img {
     width: 1139px;
@@ -76,6 +88,29 @@ span {
     color: #EF8834;
 }
 
+
+footer {
+    height: 144px;
+    width: 100%;
+    background: #99C6E1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 100px;
+}
+
+
 .footer_reseaux img {
     max-height: 55px;
+}
+
+
+
+.footer_logo img {
+    height: 70px;
+    width: 136px;
+    position: absolute;
+    bottom: 20%;
+    right: 1%;
 }

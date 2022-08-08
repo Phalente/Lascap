@@ -25,7 +25,7 @@
     </head>
     <body>
         <header>
-            <div class="img-hea">
+            <div class="img-header">
                 <img src="../Images/logoscapmaree.png" alt="Logo Scapmarée">
             </div>
             <div class="nav-bar">

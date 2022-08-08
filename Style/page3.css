@@ -52,9 +52,18 @@ margin: 50px;
     display: flex;
     flex-direction: column;
     width: 548px;
-    height: 372px;
     margin-left: 100px;
     margin-right: 10px;
+}
+
+.texte p {
+    margin: 0;
+}
+
+.texte {
+    width: 645px;
+    margin-left: 64px;
+    align-self: center;
 }
 
 .imageblocgauche img {

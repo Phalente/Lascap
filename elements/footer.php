@@ -2,14 +2,14 @@
 ?>
 <footer>
     <div class="footer-reseaux_copyright">
-        <div class="footer_reseaux row">
+        <div class="footer_reseaux">
             <a href="">
                 <img src="../Images/square-facebook-brands.svg
-                " alt="Résaux facebook de ">
+                " alt="Résaux facebook de Camille">
             </a>
             <a href="">
-                <img src="../Images/square-facebook-brands.svg
-                " alt="Résaux facebook de ">
+                <img src="../Images/icon_linkedin.svg
+                " alt="Résaux Linkedin de Camille">
             </a>
         </div>
         <div class="footer_copyright">
