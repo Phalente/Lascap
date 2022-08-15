@@ -97,7 +97,15 @@ header {
     height: 90px;
     background: var(--header-footer-color);
     color: white;
+    display: flex;
+    align-items: center;
 }
+
+header .nav-bar {
+    display: flex;
+    justify-content: center;
+}
+
 header ul {
     list-style: none;
 }
@@ -105,10 +113,16 @@ header ul {
 header li {
     background: #0070B4;
     display: inline-block;
-    border-radius: 5px;
+    border-radius: 20px;
+    padding: 7px 30px;
+    margin-right: 25px;
 }
 header a {
     color: white;
+}
+
+header li:hover {
+    background: #EF8834;
 }
 
 .img-header img {
