@@ -1,3 +1,8 @@
+:root {
+    --header-footer-color: #99C6E1;
+
+}
+
 html,
 body {
     height: 100%;
@@ -88,11 +93,27 @@ span {
     color: #EF8834;
 }
 
+header {
+    height: 90px;
+    background: var(--header-footer-color);
+    color: white;
+}
+header ul {
+    list-style: none;
+}
+header a {
+    color: white;
+}
+
+.img-header img {
+    height: 70px;
+    width: 136px;
+}
 
 footer {
     height: 144px;
     width: 100%;
-    background: #99C6E1;
+    background: var(--header-footer-color);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -104,8 +125,6 @@ footer {
 .footer_reseaux img {
     max-height: 55px;
 }
-
-
 
 .footer_logo img {
     height: 70px;
