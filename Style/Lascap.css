@@ -52,6 +52,12 @@ header {
     display: flex;
 }
 
+.img-header img {
+    height: 70px;
+    width: 136px;
+    margin-left: 10px;
+}
+
 
 .titre img {
     width: 1139px;
@@ -116,7 +122,7 @@ header li {
     display: inline-block;
     border-radius: 20px;
     padding: 7px 30px;
-    margin-right: 25px;
+    margin-right: 35px;
 }
 header a {
     color: white;
@@ -126,10 +132,7 @@ header li:hover {
     background: #EF8834;
 }
 
-.img-header img {
-    height: 70px;
-    width: 136px;
-}
+
 
 footer {
     height: 144px;
