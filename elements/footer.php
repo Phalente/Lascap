@@ -17,7 +17,9 @@
         </div>
     </div>
     <div class="footer_logo">
-        <img src="../Images/logoscapmaree.png" alt="Logo Scapmarée">
+        <a href="../Lascap.php">
+            <img src="../Images/logoscapmaree.png" alt="Logo Scapmarée">
+        </a>
     </div>
 </footer>
 </body>

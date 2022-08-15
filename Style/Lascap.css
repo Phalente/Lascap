@@ -101,6 +101,12 @@ header {
 header ul {
     list-style: none;
 }
+
+header li {
+    background: #0070B4;
+    display: inline-block;
+    border-radius: 5px;
+}
 header a {
     color: white;
 }

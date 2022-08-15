@@ -27,9 +27,9 @@
         <header>
             <div class="img-header">
                 <a href="../Lascap.php">
-                <img src="../Images/logoscapmaree.png" alt="Logo Scapmarée">
+                    <img src="../Images/logoscapmaree.png" alt="Logo Scapmarée">
+                </a>
             </div>
-            </a>
             <div class="nav-bar">
                 <ul>
                     <li><a href="../Lascap.php">La Scapmarée</a></li>
